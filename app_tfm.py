@@ -3,8 +3,6 @@
 TFM - App de demostración (ampliada): predicción de demanda eléctrica en España
 
 Ejecutar con: streamlit run app_tfm.py
-(desde la misma carpeta donde tienes los .pkl, .csv y .json exportados
- por el bloque 5.8 del notebook)
 
 pip install streamlit plotly shap --break-system-packages
 """
