@@ -1,0 +1,30 @@
+# Dependencias del TFM: Predicción de la demanda eléctrica en España
+# Instalar con: pip install -r requirements.txt
+
+# --- Extracción de datos y utilidades generales ---
+requests
+python-dotenv
+python-dateutil
+pandas
+numpy
+holidays
+
+# --- Análisis exploratorio y visualización ---
+matplotlib
+seaborn
+scipy
+
+# --- Modelización ---
+statsmodels
+pmdarima
+xgboost
+lightgbm
+scikit-learn
+joblib
+
+# --- Interpretabilidad ---
+shap
+
+# --- Aplicación interactiva ---
+streamlit
+plotly
